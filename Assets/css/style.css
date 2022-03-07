@@ -10,12 +10,18 @@ body {
   background-color: #9ccee1;
 }
 
-.header {
+.header, footer{
   padding: 1px;
   font-family: sans-serif,'Times New Roman', 'Gill Sans';
   background-color:#2b6490;
   color: tan;
   border-bottom: 10px solid gray;
+}
+
+figure {
+  width: 800px;
+  background-color: white;
+  margin-right: 20px;
 }
 
 .header h1 {
@@ -42,8 +48,8 @@ body {
 }
 
 .button {
-  width: 20px;
-  margin: 0 .5%;
+  width: 100px;
+  margin: 0 .10%;
   font-size: 100%;
 
 }
@@ -189,15 +195,10 @@ p {
 .footer {
   width: 300px;
   height: 20px;
-  bottom: auto;
-  background-color: #2b6490;
-  border-top: 12px solid gray;
-  clear: both;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-align: center;
+  color: #000000;
 }
 
 .footer h2 {
   font-size: 20px;
-  nav-up: auto;
 } 

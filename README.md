@@ -9,7 +9,7 @@ I made a webpage displaying an inital Career Porfolio
 ![Career CSS](https://github.com/Maryan-ali/My_Portfolio/issues/2#issue-1160492895)
 
 ## Link of final page
-![Final](./index.html)
+![Here is a link to my final page](./index.html)
 
 ##  Contributions 
 Screenshot help
