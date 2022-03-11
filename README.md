@@ -4,10 +4,7 @@
 I made a webpage displaying an inital Career Porfolio 
 
 ## Screenshot of Final page
-![Career Portfolio](https://github.com/Maryan-ali/My_Portfolio/issues/1#issue-1160492432)
-
-![Career CSS](https://github.com/Maryan-ali/My_Portfolio/issues/2#issue-1160492895)
-
+![ScreenshotofHTML](https://user-images.githubusercontent.com/100402908/157893578-0cbe4c3e-f81a-49bd-8736-54764c887410.png)  
 ## Link of final page
 ![Here is a link to my final page](./index.html)
 ![link to github](https://github.com/Maryan-ali/My_Portfolio.git)
